@@ -62,5 +62,16 @@ export const RESUME_DATA = {
         href: "https://www.whynot.immo/",
       },
     },
+    {
+      title: "BrikBrok",
+      techStack: ["TypeScript", "Next.js", "Chakra-UI"],
+      description:
+        "a notaries and real estate agencies database to find the right person to contact for someone who wants to sell or buy a house.",
+      logo: undefined,
+      link: {
+        label: "brikbrok.be",
+        href: "https://www.brikbrok.be/",
+      },
+    },
   ],
 } as const;
